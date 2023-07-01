@@ -6,9 +6,9 @@ export const Navbar = () => {
   return (
     <div className="n-wrapper">
       <div className="n-left">
-        <div className='icon'>
+        {/* <div className='icon'>
           <img src={Icon} alt=''></img>
-        </div>
+        </div> */}
         <div className="n-name">Priyanshu</div>
         <span>toggle</span>
       </div>
